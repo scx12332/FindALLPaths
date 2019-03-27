@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\最短路径vscode版本\\FindPaths_v4\\FindShortestPathTest\\FindShortestPathTest.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
